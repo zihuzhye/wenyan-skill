@@ -1,0 +1,4 @@
+.clawhub/
+*.zip
+*.log
+*.tmp
